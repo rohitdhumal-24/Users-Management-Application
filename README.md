@@ -1,6 +1,5 @@
 # User Management Application 🛠️
 
-![User Management](https://cdn-icons-png.flaticon.com/512/3597/3597075.png){: width="32px" height="32px"}
 **A comprehensive CRUD (Create, Read, Update, Delete) application built using JSP, Servlet, and MySQL.**
 
 ---
@@ -38,9 +37,9 @@ The **User Management Application** is designed to manage user data effectively.
 
 ## 🛠️ Technologies Used
 
-![JSP](https://cdn-icons-png.flaticon.com/512/1481/1481251.png){: width="32px" height="32px"} JSP  
-![Servlet](https://upload.wikimedia.org/wikipedia/commons/2/2d/Java_Server_Pages_logo.svg){: width="32px" height="32px"} Servlet  
-![MySQL](https://cdn-icons-png.flaticon.com/512/528/528260.png){: width="32px" height="32px"} MySQL   
+JSP  
+Servlet  
+MySQL   
 ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png) HTML  
 
 ---
