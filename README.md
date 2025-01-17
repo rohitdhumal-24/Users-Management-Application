@@ -37,10 +37,11 @@ The **User Management Application** is designed to manage user data effectively.
 
 ## 🛠️ Technologies Used
 
-JSP  
-Servlet  
-MySQL   
-![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png) HTML  
+### Java
+### JSP  
+### Servlet  
+### MySQL   
+### HTML  
 
 ---
 
