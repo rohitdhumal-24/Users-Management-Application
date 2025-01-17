@@ -1,6 +1,6 @@
 # User Management Application 🛠️
 
-![User Management](https://img.icons8.com/external-flat-wichaiwi/64/external-user-management-flat-wichaiwi.png)  
+![User Management](https://img.icons8.com/external-flat-wichaiwi/64/external-user-management-flat-wichaiwi.png) 
 **A comprehensive CRUD (Create, Read, Update, Delete) application built using JSP, Servlet, and MySQL.**
 
 ---
@@ -39,9 +39,9 @@ The **User Management Application** is designed to manage user data effectively.
 ## 🛠️ Technologies Used
 
 ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java  
-![JSP](https://img.icons8.com/ios-filled/50/000000/code-file.png) JSP  
+![JSP](https://img.icons8.com/ios-filled/50/code-file.png) JSP  
 ![Servlet](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/external-java-servlet-and-jsp-java-platform-standard-edition-logo-shadow-tal-revivo.png) Servlet  
-![MySQL](https://img.icons8.com/ios/50/000000/mysql-logo.png) MySQL  
+![MySQL](https://img.icons8.com/ios/50/mysql-logo.png) MySQL   
 ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png) HTML  
 
 ---
@@ -119,14 +119,19 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+## Contributors
+- **Rohit Dhumal**
+  - Role: Developer
+  - Contact: rohitdhumal248@gmail.com
+  - If you enjoyed this project, feel free to connect with me on [GitHub](https://github.com/rohitdhumal-24)!
 
 ---
 
 ## 🙌 Acknowledgements
 
 Special thanks to all the developers and contributors who made this project possible. Icons provided by [Icons8](https://icons8.com/).
+Thank you for exploring the **User Management Application** Feedback is welcome.
+
+🎉 **User Management Application!** 🎉
 
 
