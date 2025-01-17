@@ -1,6 +1,6 @@
 # User Management Application 🛠️
 
-![User Management](https://img.icons8.com/external-flat-wichaiwi/64/external-user-management-flat-wichaiwi.png) 
+![User Management](https://cdn-icons-png.flaticon.com/512/3597/3597075.png)
 **A comprehensive CRUD (Create, Read, Update, Delete) application built using JSP, Servlet, and MySQL.**
 
 ---
@@ -39,9 +39,9 @@ The **User Management Application** is designed to manage user data effectively.
 ## 🛠️ Technologies Used
 
 ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java  
-![JSP](https://img.icons8.com/ios-filled/50/code-file.png) JSP  
-![Servlet](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/external-java-servlet-and-jsp-java-platform-standard-edition-logo-shadow-tal-revivo.png) Servlet  
-![MySQL](https://img.icons8.com/ios/50/mysql-logo.png) MySQL   
+![JSP](https://cdn-icons-png.flaticon.com/512/1481/1481251.png) JSP  
+![Servlet](https://upload.wikimedia.org/wikipedia/commons/2/2d/Java_Server_Pages_logo.svg) Servlet  
+![MySQL](https://cdn-icons-png.flaticon.com/512/528/528260.png) MySQL  
 ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png) HTML  
 
 ---
