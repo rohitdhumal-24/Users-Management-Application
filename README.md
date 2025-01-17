@@ -49,11 +49,11 @@ The **User Management Application** is designed to manage user data effectively.
 ## 📸 Screenshots
 
 ### 1. Home Page 🏠
-![Home Page]([https://via.placeholder.com/800x400?text=Home+Page](https://github.com/rohitdhumal-24/Users-Management-Application/blob/a3705ac131c0d8d601acda5d9f91a6035ea80b1c/Output.png))
+![Home Page](Output.png)
 
 
 ### 2. View Users 📋
-![View Users](https://via.placeholder.com/800x400?text=View+Users)
+![View Users](DBRecord.png)
 
 ---
 
